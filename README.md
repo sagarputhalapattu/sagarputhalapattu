@@ -11,6 +11,9 @@ As a passionate and results-driven Data Scientist, I specialize in leveraging ma
 My technical proficiency extends to Python, SQL, and machine learning frameworks such as TensorFlow and Scikit-learn . I’m well-versed in data preprocessing, building predictive models, and deploying machine learning systems using Flask and FastAPI . Additionally, I have experience with cloud platforms like Azure AI and GCP for scaling AI solutions.
 
 What sets me apart is my ability to translate complex data insights into actionable business strategies. Whether through data visualization tools like Power BI or stakeholder communication, I ensure that technical solutions align with business goals. I am always eager to explore new challenges and apply my skills in machine learning and data science to solve real-world problems. 
+# intership 
+- [Cognifyz_internship](https://github.com/sagarputhalapattu/Cognifyz_internship) 
+
 # projects 
 
 - [customer churn prediction model using BERT](https://github.com/sagarputhalapattu/projects/tree/main/Customer_Churn_Model_using_BERT_CICD_Integration) 
